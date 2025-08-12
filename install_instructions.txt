@@ -1,0 +1,10 @@
+Run 'install_all.bat' to install all dependencies for both frontend and backend.
+This will take a few minutes to complete and will automatically close after it is complete.
+
+Once that is done, run 'start_all.bat' to start the backend and the frontend server.
+The frontend localhost link will be available at the Vite window that gets created after you run the 'start_all.bat'
+Open it to view the page.
+
+Credentials for login:
+Username: user
+Password: 123
